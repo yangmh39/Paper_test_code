@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+results_smoke.csv
+pdf_pages/
+方法.pdf
